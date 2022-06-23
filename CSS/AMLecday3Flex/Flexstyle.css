@@ -1,0 +1,58 @@
+*{        
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+/*Css Reset (must add to prevent from autoing to fit all browsers)*/
+
+.row1{
+    height: 500px;
+    background-color: rgb(80, 98, 255);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.row2{
+    height: 500px;
+    background-color: rgb(232, 156, 225);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+
+}
+
+.row3{
+    height: 500px;
+    background-color: rgb(207, 97, 237);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+    
+
+
+}
+.box{
+    margin-top: 25px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(244, 248, 248);
+    
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    margin-top: 40px;
+
+}
+
+h1{
+    font-size: 90px;
+    text-align: center;
+    font-weight: 18;
+    color: gray
+    
+}
+
