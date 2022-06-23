@@ -1,0 +1,20 @@
+#Search-btn{
+    Border: 1px solid aqua;
+    color: aqua;
+    font size: 10px;
+    border-radius: 10px;
+}
+
+#add-btn{
+    border-radius: 50%;
+    background-color: aqua;
+    border: 0px;
+    
+    color: white;
+    }
+
+#Create-Account-btn{
+    color: white;
+    background-color: cornflowerblue;
+    box-shadow: 8px 8px 8px rgb(13, 0, 0);
+}
