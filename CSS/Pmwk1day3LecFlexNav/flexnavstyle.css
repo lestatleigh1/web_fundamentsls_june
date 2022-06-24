@@ -1,0 +1,37 @@
+*{        
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+.nav{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    color: #c1c1c1;
+    text-decoration: none;
+}
+
+.active{
+    color: white;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.btn{
+    background-color: #17a2b8;
+    color: white;
+    padding: 5px 10px;
+    border: solid black;
+    box-shadow: 2px 2px 2px black;
+}
